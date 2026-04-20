@@ -1,3 +1,4 @@
+from typing import Optional
 """Tutor with knowledge anchors and learning progress."""
 
 import time
