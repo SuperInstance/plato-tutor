@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-tutor
+Version: 0.1.0
+Summary: Tutor — knowledge anchors, TUTOR_JUMP navigation, learning progress
+License: MIT
+Requires-Python: >=3.8
